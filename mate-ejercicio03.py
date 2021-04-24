@@ -10,7 +10,7 @@ print (c)
 
  
  # operaciones con variables 
- w = "14"
- x = "12"
- y = w+x
- print (w, "hola :)", x, '=', y)
+w = 11
+x = 12
+y = w+x # y es "unodos"
+print (y)
